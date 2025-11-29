@@ -104,7 +104,7 @@ ai-smart-grid-mas/
 
 ## 🔗 Related Resources
 
-- 📜 [Research Paper UGC CARE (Preprint)](link_to_preprint.pdf)
+- 📜 [Research Paper UGC recognised (Preprint)](link_to_preprint.pdf)
 - 📊 [Live Streamlit Dashboard (if deployed)](link_here)
 - 📘 [Dataset DOI on Zenodo](https://doi.org/10.5281/zenodo.xxxxxx)
 
