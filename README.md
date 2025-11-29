@@ -17,17 +17,11 @@
 ![ertificate](https://github.com/Ishita95-harvad/-Simulation-Integration-ai-smart-grid-mas-/blob/main/figures/Screenshot%20(679).png)
 
 
-
-
-### 1.[🌱 AI-Powered Energy Efficiency and Climate-Responsive Forecasting System](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization) 85.5% PHASE-I
-### 2.[EXPERIMENTAL PERFORMANCE SET UP & MAS-Grid-LAB-D-SIMULATION OBSERVATAION - A Multi-Agent Reinforcement Learning Approach for Smart Grid Optimization and Real-Time Energy Management "](https://github.com/Ishita95-harvad/EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION)
+### 1.[EXPERIMENTAL PERFORMANCE SET UP & MAS-Grid-LAB-D-SIMULATION OBSERVATAION - A Multi-Agent Reinforcement Learning Approach for Smart Grid Optimization and Real-Time Energy Management "](https://github.com/Ishita95-harvad/EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION)
 This project demonstrates an AI-powered Multi-Agent System (MAS) designed for real-time energy forecasting, grid optimization, and climate-resilient decision-making.
 
-## 🔗 Related Resources
+### 2.[🌱 AI-Powered Energy Efficiency and Climate-Responsive Forecasting System](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization) 85.5% PHASE-I
 
-- 📜 [Research Paper UGC recognised (Preprint)](link_to_preprint.pdf)
-- 📊 [Live Streamlit Dashboard (if deployed)](link_here)
-- 📘 [Dataset DOI on Zenodo](https://doi.org/10.5281/zenodo.xxxxxx)
 
 
 
