@@ -19,7 +19,7 @@
 
 
 
-### 1.[AI-Powered Multi-Agent System for Renewable Energy Forecasting](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization) 85.5% PHASE-I
+### 1.[Multi-Agent System for Solar Renewable Energy Forecasting and Energy Optimisation](https://github.com/Ishita95-harvad/AI-Smart-Grid-Multi-Agent-System-for-Renewable-Forecasting-and-Optimization) 85.5% PHASE-I
 ### 2.[EXPERIMENTAL PERFORMANCE SET UP & MAS-Grid-LAB-D-SIMULATION OBSERVATAION - A Multi-Agent Reinforcement Learning Approach for Smart Grid Optimization and Real-Time Energy Management "](https://github.com/Ishita95-harvad/EXPERIMENTAL-SET-UP-MAS-Grid-LAB-D-SIMULATION)
 This project demonstrates an AI-powered Multi-Agent System (MAS) designed for real-time energy forecasting, grid optimization, and climate-resilient decision-making.
 
